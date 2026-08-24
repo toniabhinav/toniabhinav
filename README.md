@@ -1,5 +1,37 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>• Generative AI & LLM based real-world applications<br>• AI powered data analytics dashboards and intelligent automation tools<br>• Full-stack AI web platforms using FastAPI / React<br><br> I’m looking to collaborate on<br>• Open-source AI / Machine Learning projects<br>• Data analytics & visualization based products<br>• Computer vision and intelligent automation systems<br><br>🤝 I’m looking for help with<br>• Advanced MLOps & scalable AI deployment<br>• Optimizing LLM agents and real-time inference systems<br>• System design for AI-driven products<br><br>🌱 I’m currently learning<br>• Agentic AI architectures & RAG pipelines<br>• Advanced machine learning & deep learning concepts<br>• Cloud based AI deployment (AWS / scalable backend systems)<br><br>💬 Ask me about<br>• Python for Data Analytics & Machine Learning<br>• Generative AI apps using LangChain / LLM frameworks<br>• Power BI dashboards & business insights<br>• Computer Vision project development<br><br>⚡ Fun fact<br>• I enjoy turning complex datasets into meaningful AI products that solve real-world problems 🚀
+## 👋 About Me
+
+I'm **Abhinav Kumar**, an engineering student and aspiring software engineer with a strong interest in building practical, intelligent software systems.
+
+I enjoy working across **Python, backend development, data-driven applications, and modern web technologies**. My current focus is on developing real-world applications that combine strong software engineering with intelligent automation.
+
+### 🔭 Currently Working On
+- An **offline Flight Controller Requirement Standardization System**
+- Intelligent automation and data-processing applications
+- Full-stack applications using **Python, FastAPI, React, and Next.js**
+
+### 🌱 Currently Learning
+- Advanced **Machine Learning and Deep Learning**
+- Large Language Models and AI application development
+- System design and scalable backend architecture
+- Deployment and production-ready software development
+
+### 💻 Technical Interests
+- Python & Backend Development
+- Artificial Intelligence & Machine Learning
+- Data Processing & Automation
+- REST APIs and Distributed Systems
+- Full-Stack Web Development
+- Computer Vision
+
+### 🤝 Open To
+- Software Engineering opportunities
+- Open-source collaboration
+- Machine Learning and AI projects
+- Building practical solutions to real-world problems
+
+### 📫 Let's Connect
+
+Feel free to connect with me for discussions around **software development, AI, machine learning, backend systems, or interesting project ideas**.
 
 
 ## 🌐 Socials:
